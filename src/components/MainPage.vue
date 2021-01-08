@@ -2,6 +2,7 @@
   <div class="main-page" id="MainPage">
     <h1 class="heading-name">{{info.name}}</h1>
     <div>
+      <div></div>
       <div>
         <img src="" alt="">
       </div>
